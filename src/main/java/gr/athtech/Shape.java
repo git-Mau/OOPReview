@@ -1,2 +1,6 @@
-package gr.athtech;public interface Shape {
+package gr.athtech;
+
+public interface Shape {
+
+    double getArea();
 }
